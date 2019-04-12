@@ -8,4 +8,4 @@ VALUES
 ("Melissa", 13, "F", "black", "friendly", 1),
 ("Grinch", 2, "M", "dark brown", "agressive", 1),
 ("Wendy", 6, "F", "dark brown", "calm", 1),
-(NULL, 20, "M", "black", "crazy", 0)
+(NULL, 20, "M", "black", "crazy", 0);
